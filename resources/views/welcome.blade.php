@@ -52,7 +52,7 @@
                                         <div class="d-grid gap-2 mx-auto">
                                             <a href="/Examination" class="btn text-light rounded-4 "
                                                 style="background-color: #02457A" type="button"><b>Physical
-                                                    Examination</b><img src="icon/IMG_0587.png" class="img-fluid pb-2"
+                                                    Examination</b><img src="icon/IMG_0587.PNG" class="img-fluid pb-2"
                                                     alt=""></a>
                                             <a href="/Examination" style="background-color: #02457A"
                                                 class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>
@@ -64,7 +64,7 @@
                                         <div class="d-grid gap-2  mx-auto">
                                             <a href="/Exam" style="background-color: #02457A"
                                                 class="btn text-light rounded-4 " type="button"><b>ทบทวนความรู้</b>
-                                                <img src="icon/IMG_8709.png" style="background-color: #02457A"
+                                                <img src="icon/IMG_8709.PNG" style="background-color: #02457A"
                                                     class="img-fluid pb-2" alt=""></a>
                                             <a href=" /Exam" style="background-color: #02457A"
                                                 class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>

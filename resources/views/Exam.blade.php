@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="col">
-                            <img src="icon/IMG_8709.png" class="w-25 position-absolute end-0 " alt="">
+                            <img src="icon/IMG_8709.PNG" class="w-25 position-absolute end-0 " alt="">
                         </div>
                     </div>
                 </div>

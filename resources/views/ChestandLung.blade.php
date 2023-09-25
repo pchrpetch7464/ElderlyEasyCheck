@@ -62,7 +62,7 @@
                     <div class="container text-center m-5">
                         <div class="row">
                             <div class="col ">
-                                <img src="icon/IMG_0803.png" class="img-fluid" alt="">
+                                <img src="icon/IMG_0803.PNG" class="img-fluid" alt="">
 
                             </div>
                             <div class="col">

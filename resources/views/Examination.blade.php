@@ -68,7 +68,7 @@
                                             Lung)
                                         </h3>
                                     </div>
-                                    <div class="col-2 p-2 mx-2 my-auto "><img src="icon/IMG_0803.png"
+                                    <div class="col-2 p-2 mx-2 my-auto "><img src="icon/IMG_0803.PNG"
                                             class="img-fluid end-0 rounded-circle bg-light" alt="">
                                     </div>
                                     <div class="col-2 p-2 my-auto"><svg xmlns="http://www.w3.org/2000/svg"
@@ -87,7 +87,7 @@
                                             หัวใจ (Heart)
                                         </h3>
                                     </div>
-                                    <div class="col-2 p-2 mx-2 my-auto "><img src="icon/IMG_0799.png"
+                                    <div class="col-2 p-2 mx-2 my-auto "><img src="icon/IMG_0799.PNG"
                                             class="img-fluid end-0 rounded-circle bg-light" alt="">
                                     </div>
                                     <div class="col-2 p-2 my-auto"><svg xmlns="http://www.w3.org/2000/svg"
