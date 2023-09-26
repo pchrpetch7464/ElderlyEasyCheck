@@ -61,7 +61,7 @@
             <div class="max-w-7xl  sm:px-6 lg:px-8">
                 <div class="d-grid gap-2 col-10  m-auto ">
 
-                    <div class="container-fluid mt-5  rounded-4 ">
+                    <div class="container-fluid mt-5  rounded-4 overflow-auto">
                         <div class="d-flex align-items-start">
                             <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
                                 aria-orientation="vertical">
@@ -83,7 +83,7 @@
                                 <div class="tab-pane  show active" id="v-pills-video" role="tabpanel"
                                     aria-labelledby="v-pills-video-tab" tabindex="0">
                                     <div class="m-5 p-5">
-                                        <iframe width="820" height="460"
+                                        <iframe width="480" height="320"
                                             src="https://www.youtube.com/embed/gixvU_WwaY8?si=3PF-FN-1yVaMDoQE"
                                             title="YouTube video player" frameborder="0"
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -57,8 +57,8 @@
             <div class="py-12">
                 <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                     <div class="d-grid gap-2 col-6 mx-auto">
-                        <div class="container my-5">
-                            <a class="btn d-flex flex-row mb-3 rounded-5" href="/ChestandLung" type="button">
+                        <div class="container text-center my-5 overflow-auto">
+                            <!-- <a class="btn d-flex flex-row mb-3 rounded-5" href="/ChestandLung" type="button">
                                 <div class="row rounded-5" style=" background-color: #02457A">
                                     <div class="col d-grid ">
                                         <h3 class="text-left text-light p-3 my-auto " type="button">
@@ -98,7 +98,38 @@
                                         </svg>
                                     </div>
                                 </div>
-                            </a>
+                            </a> -->
+                            <div class="row ">
+                                <div class="col-sm-12 col-lg-6 col-md-6">
+                                <div class="card mb-3">
+                                        <div class="card-header text-light" style="background-color: #001B48">
+                                            <b>ทรวงอกและปอด
+                                            <br>(Chest
+                                            and
+                                            Lung)</b>
+                                        </div>
+                                        <div class="card-body" style="background-color: #02457A">
+                                            <img src="icon/IMG_0803.PNG" class="img-fluid pb-2" alt="">
+                                            <a href="/ChestandLung" style="background-color: #001B48"
+                                                class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-sm-12 col-lg-6 col-md-6">
+                                    <div class="card mb-3">
+                                        <div class="card-header text-light" style="background-color: #001B48">
+                                            <b>หัวใจ<br> (Heart)</b>
+                                        </div>
+                                        <div class="card-body" style="background-color: #02457A">
+                                            <img src="icon/IMG_0799.PNG" class="img-fluid pb-2" alt="">
+                                            <a href="/Heart" style="background-color: #001B48"
+                                                class="btn text-light  rounded-pill mx-5" type="button"><b>click</b></a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

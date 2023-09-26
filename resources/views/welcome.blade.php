@@ -45,12 +45,13 @@
             <div class="grid grid-cols-1 md:grid-cols-2">
                 <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                     <div class="d-grid gap-2 col-6 mx-auto">
-                        <div class="container-sm text-center m-5">
-                            <div class="row">
-                                <div class="col">
+                        <div class="container content-center text-center m-5 overflow-auto">
+                            <!-- <div class="row">
+                                <div class="col mb-3">
+
                                     <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                                         <div class="d-grid gap-2 mx-auto">
-                                            <a href="/Examination" class="btn text-light rounded-4 "
+                                            <a href="/Examination" class="btn text-light rounded-4 fs-5"
                                                 style="background-color: #02457A" type="button"><b>Physical
                                                     Examination</b><img src="icon/IMG_0587.PNG" class="img-fluid pb-2"
                                                     alt=""></a>
@@ -59,14 +60,43 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col">
+                                <div class="col mb-3">
                                     <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                                         <div class="d-grid gap-2  mx-auto">
                                             <a href="/Exam" style="background-color: #02457A"
-                                                class="btn text-light rounded-4 " type="button"><b>ทบทวนความรู้</b>
+                                                class="btn text-light rounded-4 fs-5 " type="button"><b>ทบทวนความรู้</b>
                                                 <img src="icon/IMG_8709.PNG" style="background-color: #02457A"
                                                     class="img-fluid pb-2" alt=""></a>
                                             <a href=" /Exam" style="background-color: #02457A"
+                                                class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div> -->
+                            <div class="row ">
+                                <div class="col-sm-12 col-lg-6 col-md-6">
+                                <div class="card mb-3">
+                                        <div class="card-header text-light" style="background-color: #001B48">
+                                            <b>Physical
+                                                Examination</b>
+                                        </div>
+                                        <div class="card-body" style="background-color: #02457A">
+                                            <img src="icon/IMG_0587.PNG" class="img-fluid pb-2" alt="">
+                                            <a href="/Examination" style="background-color: #001B48"
+                                                class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-sm-12 col-lg-6 col-md-6">
+                                    <div class="card mb-3">
+                                        <div class="card-header text-light" style="background-color: #001B48">
+                                            <b>ทบทวนความรู้</b>
+                                        </div>
+                                        <div class="card-body" style="background-color: #02457A">
+                                            <img src="icon/IMG_8709.PNG" class="img-fluid pb-2" alt="">
+                                            <a href="/Exam" style="background-color: #001B48"
                                                 class="btn text-light rounded-pill mx-5" type="button"><b>click</b></a>
                                         </div>
                                     </div>

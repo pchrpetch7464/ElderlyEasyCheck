@@ -12,7 +12,7 @@
 
 
     <nav class="navbar bg-body-tertiary">
-        <div class="container-fluid">
+        <div class="container-fluid ">
             <h1 class="navbar-brand position-absolute end-0">Elderly easy check</h1>
             <button class="navbar-toggler position start-0" type="button" data-bs-toggle="offcanvas"
                 data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -61,7 +61,7 @@
             <div class="max-w-7xl  sm:px-6 lg:px-8">
                 <div class="d-grid gap-2 col-10  m-auto ">
 
-                    <div class="container-fluid mt-5  rounded-4 ">
+                    <div class="container-fluid mt-5  rounded-4 overflow-auto">
                         <div class="d-flex align-items-start">
                             <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
                                 aria-orientation="vertical">

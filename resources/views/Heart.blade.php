@@ -66,11 +66,11 @@
                 <div class="d-grid gap-2 col-6 mx-auto">
                     <div class="container text-center m-5">
                         <div class="row">
-                            <div class="col ">
+                            <div class="col-rm-12 col-lg-6 ">
                                 <img src="icon/IMG_0799.PNG" class="img-fluid" alt="">
 
                             </div>
-                            <div class="col ">
+                            <div class="col-rm-12 col-lg-6 ">
                                 <h5 class=" rounded-4 p-3 text-light" style=" background-color: #02457A">หัวใจ (Heart)
                                 </h5>
 

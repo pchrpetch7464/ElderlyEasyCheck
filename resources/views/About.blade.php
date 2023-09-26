@@ -62,7 +62,7 @@
             <div class="py-12">
                 <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                     <div class="d-grid gap-2 col-8 mx-auto">
-                        <div class="container-{breakpoint} text-center mt-5">
+                        <div class="container-{breakpoint} text-center mt-5 overflow-auto">
 
                             <div class="row border-bottom ">
                                 <div class="col">

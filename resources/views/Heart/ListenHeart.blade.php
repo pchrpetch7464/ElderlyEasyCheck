@@ -59,7 +59,7 @@
         <div class="py-12 ">
 
             <div class="max-w-7xl  sm:px-6 lg:px-8">
-                <div class="d-grid gap-2 col-10  m-auto ">
+                <div class="d-grid gap-2 col-10  m-auto overflow-auto">
 
                     <div class="container-fluid mt-5  rounded-4 ">
                         <div class="d-flex align-items-start">
