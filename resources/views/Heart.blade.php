@@ -74,16 +74,16 @@
                                 <h5 class=" rounded-4 p-3 text-light" style=" background-color: #02457A">หัวใจ (Heart)
                                 </h5>
 
-                                <div class="d-grid gap-2 col-6 mx-auto">
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/LookHeart">เทคนิคการดู</a>
+                                <div class="col-10 mx-auto">
+                                    <a class="btn " href="/LookHeart"><img src="icon/ดู หัวใจ.png" class="img-fluid "
+                                            alt=""></a>
 
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/FeelHeart">เทคนิคการคลํา</a>
+                                    <a class="btn" href="/FeelHeart"><img src="icon/คลำ หัวใจ.png" class="img-fluid "
+                                            alt=""></a>
 
 
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/ListenHeart">เทคนิคการฟัง</a>
+                                    <a class="btn " href="/ListenHeart"><img src="icon/ฟัง หัวใจ.png" class="img-fluid "
+                                            alt=""></a>
 
                                 </div>
                             </div>

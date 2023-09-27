@@ -66,18 +66,19 @@
 
                             </div>
                             <div class="col-rm-12 col-lg-6 ">
-                                <h5 class="rounded-4 p-3 text-light" style=" background-color: #02457A">ทรวงอกและปอด
+                                <p class="rounded-4 p-3 text-light fs-6" style=" background-color: #02457A">ทรวงอกและปอด
                                     (Chest and
-                                    Lung)</h5>
-                                <div class="d-grid gap-2 col-6 mx-auto">
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/LookCaL">เทคนิคการดู</a>
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/FeelCaL">เทคนิคการคลํา</a>
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/KnockCaL">เทคนิคการเคาะ</a>
-                                    <a class="btn rounded-pill text-light" style=" background-color: #018ABE"
-                                        href="/ListenCaL">เทคนิคการฟัง</a>
+                                    Lung)</p>
+                                <div class="col-10 mx-auto">
+
+                                    <a class="btn" href="/LookCaL"><img src="icon/ดูปอด.png" class="img-fluid "
+                                            alt=""></a>
+                                    <a class="btn" href="/FeelCaL"><img src="icon/คลำปอด.png" class="img-fluid"
+                                            alt=""></a></a>
+                                    <a class="btn " href="/KnockCaL"><img src="icon/เคาะปอด.png" class="img-fluid"
+                                            alt=""></a></a>
+                                    <a class="btn" href="/ListenCaL"><img src="icon/ฟังปอด.png" class="img-fluid"
+                                            alt=""></a></a>
 
                                 </div>
 

@@ -2,6 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
+@googlefonts
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Elderly easy check</title>
@@ -32,9 +33,11 @@
     <img src="/icon/dash.png" class="img-fluid" alt="...">
 
 </head>
-
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+</style>
 <body>
-
+@googlefonts
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"

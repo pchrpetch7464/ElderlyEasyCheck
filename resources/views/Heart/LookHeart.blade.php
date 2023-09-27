@@ -62,39 +62,50 @@
                 <div class="d-grid gap-2 col-10  m-auto overflow-auto">
 
                     <div class="container-fluid mt-5  rounded-4 ">
-                        <div class="d-flex align-items-start">
-                            <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
-                                aria-orientation="vertical">
-                                <button class="nav-link active" id="v-pills-video-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-video" type="button" role="tab"
-                                    aria-controls="v-pills-video" aria-selected="false">video</button>
-                                <button class="nav-link " id="v-pills-one-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-one" type="button" role="tab" aria-controls="v-pills-one"
-                                    aria-selected="true">1</button>
-                            </div>
-                            <div class="tab-content" id="v-pills-tabContent">
-                                <div class="tab-pane " id="v-pills-one" role="tabpanel"
-                                    aria-labelledby="v-pills-one-tab" tabindex="0">
-                                    <img src="/result/ผลตรวจปอด ดู 1.jpg" class="img-fluid" alt="...">
-
+                        <img src="icon/ดู หัวใจ.png" style="width: 406px; height: 87px; " class=" img" alt="">
+                        <div class="row">
+                            <div class="nav me-5" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                <div class="col-rm-12 ">
+                                    <a class="nav-link active text-center" id="v-pills-video-tab" data-bs-toggle="pill"
+                                        data-bs-target="#v-pills-video" type="button" role="tab"
+                                        aria-controls="v-pills-video" aria-selected="true"><img
+                                            src="icon/วิธีการตรวจ.png" class="img" style="width: 182px; height: 66px; "
+                                            alt=""></a>
                                 </div>
-
-
-                                <div class="tab-pane show active" id="v-pills-video" role="tabpanel"
-                                    aria-labelledby="v-pills-video-tab" tabindex="0">
-                                    <div class="m-5 p-5">
-                                        <iframe width="820" height="460"
-                                            src="https://www.youtube.com/embed/ihUkwxIZNb8?si=KKbbDJl0P2TviHAJ"
-                                            title="YouTube video player" frameborder="0"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            allowfullscreen></iframe>
-                                    </div>
-
-
+                                <div class="col-rm-12 ">
+                                    <a class="nav-link" id="v-pills-one-tab" data-bs-toggle="pill"
+                                        data-bs-target="#v-pills-one" type="button" role="tab"
+                                        aria-controls="v-pills-one" aria-selected="false"><img
+                                            src="icon/ผลการตรวจร่างกาย.png" style="width: 230px; height: 64px; "
+                                            class="" alt="">
+                                    </a>
                                 </div>
-
                             </div>
+
                         </div>
+                        <div class="tab-content" id="v-pills-tabContent">
+                            <div class="tab-pane " id="v-pills-one" role="tabpanel" aria-labelledby="v-pills-one-tab"
+                                tabindex="0">
+                                <img src="/result/ผลตรวจปอด ดู 1.jpg" class="img-fluid" alt="...">
+
+                            </div>
+
+
+                            <div class="tab-pane show active" id="v-pills-video" role="tabpanel"
+                                aria-labelledby="v-pills-video-tab" tabindex="0">
+                                <div class="m-5 text-center">
+                                    <iframe width="480" height="320"
+                                        src="https://www.youtube.com/embed/ihUkwxIZNb8?si=KKbbDJl0P2TviHAJ"
+                                        title="YouTube video player" frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        allowfullscreen></iframe>
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
                     </div>
 
 
