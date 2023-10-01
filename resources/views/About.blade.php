@@ -77,7 +77,8 @@
                                         (Physical Examination of the Older Adult)</p>
                                 </div>
                             </div>
-                            <div class="row border-bottom m-3">
+                            <img src="/icon/AboutUs.png" class="img-fluid" alt="...">
+                            <!-- <div class="row border-bottom m-3">
                                 <div class="col">
                                     <p>จัดทำโดย</p>
 
@@ -105,7 +106,7 @@
                             <div class="row mt-3">
                                 <p>Content Reference : หนังสือ การประเมินภาวะสุขภาพผู้ใหญ่และผู้สูงอายุ :
                                     การประยุกต์ใช้ในการพยาบาล</p>
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>

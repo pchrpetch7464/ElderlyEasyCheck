@@ -85,8 +85,8 @@
                         <div class="tab-content" id="v-pills-tabContent">
                             <div class="tab-pane " id="v-pills-one" role="tabpanel" aria-labelledby="v-pills-one-tab"
                                 tabindex="0">
-                                <img src="/result/ผลตรวจปอด ฟัง 1.jpg" class="img-fluid" alt="...">
-                                <img src="/result/ผลตรวจปอด ฟัง 2.jpg" class="img-fluid" alt="..."><img
+                                <img src="/result/1 ผลตรวจปอดฟัง.jpg" class="img-fluid" alt="...">
+                                <img src="/result/2.ผลตรวจปอดฟัง.jpg" class="img-fluid" alt="..."><img
                                     src="/result/ผลตรวจปอด ฟัง 3.jpg" class="img-fluid" alt="...">
                                 <img src="/result/ผลตรวจปอด ฟัง 4.jpg" class="img-fluid" alt="...">
                             </div>
@@ -111,8 +111,8 @@
                             <div class="tab-pane show active" id="v-pills-video" role="tabpanel"
                                 aria-labelledby="v-pills-video-tab" tabindex="0">
                                 <div class="m-5 text-center">
-                                    <iframe width="480" height="320"
-                                        src="https://www.youtube.com/embed/gCZxJTc4sL4?si=ekuvb6BdBT83Ws_n"
+                                    <iframe width="560" height="315"
+                                        src="https://www.youtube.com/embed/bqmsJ4uRYBo?si=GWcaoqCh1f7_2xhX"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>

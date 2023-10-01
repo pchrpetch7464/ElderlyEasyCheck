@@ -86,7 +86,7 @@
                         <div class="tab-content" id="v-pills-tabContent">
                             <div class="tab-pane " id="v-pills-one" role="tabpanel" aria-labelledby="v-pills-one-tab"
                                 tabindex="0">
-                                <img src="/result/ผลตรวจหัวใจ ฟัง 1.jpg" class="img-fluid" alt="...">
+                                <img src="/result/ผลตรวจหัวใจ ฟัง.jpg" class="img-fluid" alt="...">
                                 <img src="/result/ผลตรวจหัวใจ ฟัง 2.jpg" class="img-fluid" alt="...">
                             </div>
 
@@ -99,8 +99,8 @@
                             <div class="tab-pane  show active" id="v-pills-video" role="tabpanel"
                                 aria-labelledby="v-pills-video-tab" tabindex="0">
                                 <div class="m-5 p-5">
-                                    <iframe width="480" height="320"
-                                        src="https://www.youtube.com/embed/9elWPZURDEA?si=iUgiKlrLQZJQKiEV"
+                                    <iframe width="560" height="315"
+                                        src="https://www.youtube.com/embed/cg6dLvOUj10?si=dLED_DkMH69vjWO-"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>

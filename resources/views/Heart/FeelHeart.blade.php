@@ -87,8 +87,8 @@
                             <div class="tab-pane   show active" id="v-pills-video" role="tabpanel"
                                 aria-labelledby="v-pills-video-tab" tabindex="0">
                                 <div class="m-5 text-center">
-                                    <iframe width="480" height="320"
-                                        src="https://www.youtube.com/embed/kkKeQI3DDfM?si=J5W9VCAkQZZF6qBc"
+                                    <iframe width="560" height="315"
+                                        src="https://www.youtube.com/embed/Reu55eFjhTA?si=lPuc1dQ7CenzzF7X"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>

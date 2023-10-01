@@ -118,8 +118,8 @@
                                 aria-labelledby="v-pills-video-tab" tabindex="0">
                                 <div class="m-5 text-center">
 
-                                    <iframe width="480" height="320"
-                                        src="https://www.youtube.com/embed/9FgVdVwl--8?si=0MpqG6dWCzyoGE4Q"
+                                    <iframe width="560" height="315"
+                                        src="https://www.youtube.com/embed/xcERDlJLcTk?si=a8olnZoVo6OvSrb9"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>
@@ -129,7 +129,7 @@
                             </div>
                             <div class="tab-pane" id="v-pills-one" role="tabpanel" aria-labelledby="v-pills-one-tab"
                                 tabindex="0">
-                                <img src="/result/ผลตรวจปอด ดู 1.jpg" class="img-fluid" alt="...">
+                                <img src="/result/ผลตรวจปอด ดู.jpg" class="img-fluid" alt="...">
                                 <img src="/result/ผลตรวจปอด ดู 2.jpg" class="img-fluid" alt="...">
                             </div>
 
