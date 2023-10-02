@@ -64,7 +64,7 @@
                     <div class="d-grid gap-2 col-8 mx-auto">
                         <div class="container-{breakpoint} text-center mt-5 overflow-auto">
 
-                            <div class="row border-bottom ">
+                            <!-- <div class="row border-bottom ">
                                 <div class="col">
                                     <h1 class="bg-primary rounded-4 text-light">About Us</h1>
                                 </div>
@@ -76,7 +76,7 @@
 
                                         (Physical Examination of the Older Adult)</p>
                                 </div>
-                            </div>
+                            </div> -->
                             <img src="/icon/AboutUs.png" class="img-fluid" alt="...">
                             <!-- <div class="row border-bottom m-3">
                                 <div class="col">
