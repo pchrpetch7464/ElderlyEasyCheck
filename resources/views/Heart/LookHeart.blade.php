@@ -86,7 +86,7 @@
                         <div class="tab-content" id="v-pills-tabContent">
                             <div class="tab-pane " id="v-pills-one" role="tabpanel" aria-labelledby="v-pills-one-tab"
                                 tabindex="0">
-                                <img src="/result/ผลตรวจฟัง ดู 1.jpg" class="img-fluid" alt="...">
+                                <img src="/result/ผลตรวจหัวใจ ดู 1.jpg" class="img-fluid" alt="...">
 
                             </div>
 
