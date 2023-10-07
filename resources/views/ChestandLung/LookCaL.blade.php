@@ -93,14 +93,14 @@
                         <img src="icon/ดูปอด.png" style="width: 406px; height: 87px; " class=" img" alt="">
                         <div class="row ">
                             <div class="nav me-5" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                                <div class="col-rm-12 col-lg-2">
+                                <div class="col-rm-12">
                                     <button class="nav-link active" id="v-pills-video-tab" data-bs-toggle="pill"
                                         data-bs-target="#v-pills-video" type="button" role="tab"
                                         aria-controls="v-pills-video" aria-selected="true"><img
                                             src="icon/วิธีการตรวจ.png" class="img" style="width: 182px; height: 66px; "
                                             alt=""></button>
                                 </div>
-                                <div class="col-rm-12 col-lg-2">
+                                <div class="col-rm-12 ">
                                     <button class="nav-link" id="v-pills-one-tab" data-bs-toggle="pill"
                                         data-bs-target="#v-pills-one" type="button" role="tab"
                                         aria-controls="v-pills-one" aria-selected="false"><img
